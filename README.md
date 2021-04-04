@@ -48,4 +48,4 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 ##### **créditos:**  <a href="https://www.youtube.com/watch?v=kjhu1LEmRpY&list=PLMdYygf53DP4YTVeu0JxVnWq01uXrLwHi"> Filipe Deschamps</a>
 |Situação|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
-|:yellow_circle:|Projeto|Meu portfólio|<a href="https://github.com/ManassesGoncalves/ManassesGoncalves.github.io">Clique aqui</a> |Javascript, NodeJs, IA, APIs|
+|:purple_circle:|Estudo|Meu portfólio|<a href="https://github.com/ManassesGoncalves/ManassesGoncalves.github.io">Clique aqui</a> |Javascript, NodeJs, IA, APIs|
