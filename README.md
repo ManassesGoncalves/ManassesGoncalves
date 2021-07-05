@@ -3,7 +3,7 @@
 <a href="https://github.com/ManassesGoncalves" alt="javascript"><code><img align="center" height="180px" src="https://github.com/ManassesGoncalves/ManassesGoncalves/blob/Master/imagens/Banner.gif?raw=true"></code></a>
 ---
 - <b> Apaixonado por tecnologia;
-- Formado em Ciência da Computação e futuro Eng. de Software;
+- Bacharel em Ciência da Computação e MBA em Eng. de Software;
 - Atualmente sou Líder de Planejamento e Controle de Produção;
 - Aberto a novas oportunidades de trabalho!</b>
 
