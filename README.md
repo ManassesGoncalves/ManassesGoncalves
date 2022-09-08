@@ -4,7 +4,7 @@
 ---
 - <b> Apaixonado por tecnologia;
 - Bacharel em Ciência da Computação e MBA em Eng. de Software;
-- Atualmente sou Analista de Planejamento e Controle de Produção na Hyundai Transys;
+- Atualmente sou Analista de Suporte MES Pleno na Hyundai Autoever;
 - Aberto a novas oportunidades de trabalho!</b>
 
 ---
