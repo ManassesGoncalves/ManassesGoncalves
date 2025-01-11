@@ -48,15 +48,18 @@
 ---
 
  ### Technology Enthusiast;
+ <div>
 :small_blue_diamond: Bachelor in Computer Science;
 :small_blue_diamond: MBA in Software Engineering;
 :small_blue_diamond: I'm currently an MES Systems Analyst at Hyundai Autoever;
 :small_blue_diamond: Open to new knowledge opportunities!
-
+</div>
 ---
 
 <details>
-<summary><img align="center" alt="GIF" height="150px" src="https://github.com/ManassesGoncalves/ManassesGoncalves/blob/Master/imagens/statistics.gif?raw=true" /><B>Click Here to See My GitHub Statistics</b></summary>
+<summary>
+<B>Click Here to See My GitHub Statistics</b><br>
+<img align="center" alt="GIF" height="150px" src="https://github.com/ManassesGoncalves/ManassesGoncalves/blob/Master/imagens/statistics.gif?raw=true" /></summary>
 
 
 
