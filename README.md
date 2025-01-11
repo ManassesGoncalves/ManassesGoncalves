@@ -54,6 +54,7 @@
 :small_blue_diamond: I'm currently an MES Systems Analyst at Hyundai Autoever;
 :small_blue_diamond: Open to new knowledge opportunities!
 </div>
+
 ---
 
 <details>
