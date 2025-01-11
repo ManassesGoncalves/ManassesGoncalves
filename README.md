@@ -4,7 +4,6 @@
 ### Follow me on social media <img align="left" height="32px" src="https://github.com/ManassesGoncalves/ManassesGoncalves/blob/Master/imagens/Like.gif?raw=true" /></b>
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white&link=https://github.com/ManassesGoncalves)](https://github.com/ManassesGoncalves)
-
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manasses-gonçalves/)](https://www.linkedin.com/in/manasses-gonçalves/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-red?style=?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/manassesgoncalves/)](https://www.instagram.com/manassesgoncalves/)
 
