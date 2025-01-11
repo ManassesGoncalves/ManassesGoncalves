@@ -56,15 +56,11 @@
 
 ---
 
-<details>
-<summary>
-<B>Click Here to See My GitHub Statistics</b><br>
-<img align="center" alt="GIF" height="150px" src="https://github.com/ManassesGoncalves/ManassesGoncalves/blob/Master/imagens/statistics.gif?raw=true" /></summary>
+### Click Here to See My GitHub Statistics
 
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManassesGoncalves&theme=highcontrast)
-
-![Manassés Gonçalves' github stats](https://github-readme-stats.vercel.app/api?username=ManassesGoncalves&theme=highcontrast)
-
-</details>
+<div align="left">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManassesGoncalves&theme=highcontrast"/>
+  
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ManassesGoncalves&theme=highcontrast"/>
+</div>
