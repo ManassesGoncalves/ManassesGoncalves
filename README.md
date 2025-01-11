@@ -11,7 +11,6 @@
 ### Hard Skills and Tools
 
 <img align="center" alt="bash" width="50" alt="Next Js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-|
 <img align="center" alt="bash" width="50" alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 |
 <img align="center" alt="bash" width="50" alt="Vue Js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
