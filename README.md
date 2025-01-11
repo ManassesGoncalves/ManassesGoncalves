@@ -60,7 +60,7 @@
 
 
 <div align="left">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManassesGoncalves&theme=highcontrast"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManassesGoncalves&theme=highcontrast"/>
   
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ManassesGoncalves&theme=highcontrast"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ManassesGoncalves&theme=highcontrast"/>
 </div>
