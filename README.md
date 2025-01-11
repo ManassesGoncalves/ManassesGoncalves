@@ -49,9 +49,9 @@
 
  ### Technology Enthusiast;
  <div>
-:small_blue_diamond: Bachelor in Computer Science;
-:small_blue_diamond: MBA in Software Engineering;
-:small_blue_diamond: I'm currently an MES Systems Analyst at Hyundai Autoever;
+:small_blue_diamond: Bachelor in Computer Science;<br>
+:small_blue_diamond: MBA in Software Engineering;<br>
+:small_blue_diamond: I'm currently an MES Systems Analyst at Hyundai Autoever;<br>
 :small_blue_diamond: Open to new knowledge opportunities!
 </div>
 
