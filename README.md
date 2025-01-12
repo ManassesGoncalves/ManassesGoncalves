@@ -8,7 +8,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-red?style=?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/manassesgoncalves/)](https://www.instagram.com/manassesgoncalves/)
 
 ### Hard Skills and Tools
-<div>
+<div align="center">
 <img align="center" alt="bash" width="50" alt="Next Js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
 
 <img align="center" alt="bash" width="50" alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
